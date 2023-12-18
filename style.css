@@ -9,7 +9,7 @@
     box-sizing: border-box;
     padding-top: 30px;
     position: absolute;
-    animation: Move 20s linear infinite; /* Adjust timing as needed */
+    animation: Move 30s linear infinite; /* Adjust timing as needed */
 }
 body{
     background-color: chocolate;
